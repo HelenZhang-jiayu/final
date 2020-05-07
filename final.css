@@ -1,0 +1,127 @@
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.web1{
+    width:215px;
+height:120px;
+background-color: black;
+position: absolute;
+left:22vw;
+top:20vh;
+}
+.cover{
+width:220px;
+height:124px;
+background-color: black;
+position: absolute;
+left:22vw;
+top:20vh;
+z-index: 10;
+}
+.cover:hover{
+    display: none;
+}
+.web2{
+    width:235px;
+    height:105px;
+    background-color: black;
+    position: absolute;
+    left:45vw;
+    top:7vh;
+    }
+.cover2{
+width:240px;
+height:110px;
+background-color: black;
+position: absolute;
+left:45vw;
+top:7vh;
+z-index: 10;
+}
+
+.cover2:hover {
+    display: none;
+}
+.web3{
+    width:55px;
+    height:75px;
+    background-color: black;
+    position: absolute;
+    left:76.5vw;
+    top:2.6vh;
+    z-index: 1;
+    }
+.cover3{
+width:60px;
+height:80px;
+background-color: black;
+position: absolute;
+left:76.5vw;
+top:2.6vh;
+z-index: 10;
+}
+.cover3:hover {
+    display: none;
+}
+.web4{
+    width:45px;
+    height:60px;
+    position: absolute;
+    left:71.5vw;
+    top:18vh;
+    z-index: 2;
+}
+.cover4{
+    width:50px;
+    height:65px;
+    background-color: black;
+    position: absolute;
+    left:71.5vw;
+    top:18vh;
+    z-index: 10;
+}
+.cover4:hover{
+    display: none;
+}
+.cover5{
+    width:120px;
+    height:180px;
+    background-color: black;
+    position: absolute;
+    left:78vw;
+    top:28vh;
+    z-index: 10;
+}
+.web5{
+    width:115px;
+    height:175px;
+    position: absolute;
+    left:78vw;
+    top:28vh;
+    z-index: 2;
+}
+.cover5:hover{
+    display: none;
+}
+.web6{
+    width:186px;
+    height:106px;
+    background-color: black;
+    position: absolute;
+    left:73vw;
+    top:56vh;
+    z-index: 1;
+}
+.cover6{
+    width:190px;
+    height:110px;
+    background-color: black;
+    position: absolute;
+    left:73vw;
+    top:56vh;
+    z-index: 10;
+}
+.cover6:hover{
+    display: none;
+}
